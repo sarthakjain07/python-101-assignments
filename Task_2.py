@@ -56,7 +56,6 @@ def main():
                 balance.remove(balance[index])#removing the old ammount from the list and adding the new list after draw.
                 balance.insert(index,remainingBalalnce)
                 availableBalance = print("Your available balance is: ",remainingBalalnce)
-            print("\n\nThank you for using this Simple ATM System. \n  Brought To You By code-projects.org")
 
 main()
 
